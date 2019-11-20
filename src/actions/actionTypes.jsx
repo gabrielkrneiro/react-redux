@@ -1,0 +1,5 @@
+const CLICK_UPDATE_VALUE = 'CLICK_UPDATE_VALUE'
+
+export {
+    CLICK_UPDATE_VALUE
+}
